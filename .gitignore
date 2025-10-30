@@ -1,0 +1,19 @@
+# Python generated files
+__pycache__/*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+.venv
+
+# ide files
+.idea
